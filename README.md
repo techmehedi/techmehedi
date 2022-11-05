@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ecommehedi
+- 👋 Hi, I’m Mehedi Hasan
 - 👀 I’m interested in Full-Stack Software Engineering using HTML, CSS, JS, PYTHON, DJDANGO, FLASK, REACT.
 - 🌱 I’m currently learning Python and C++.
 - 💞️ I’m looking to collaborate on personal projects and community based projects.
