@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mehedi Hasan
-- 👀 I’m interested in Full-Stack Software Engineering using HTML, CSS, JS, PYTHON, DJANGO, FLASK, REACT (I also have experience using C++).
+- 👀 I’m interested in Full-Stack Software Engineering using HTML, CSS, JS, PYTHON, DJANGO, FLASK, REACT, C++, FLUTTER.
 - 🌱 I’m currently creating personal projects to showcase my experties. 
 - 💞️ I’m looking to collaborate on personal projects and community based projects.
 - 📫 How to reach me: https://www.linkedin.com/in/techmehedi/
