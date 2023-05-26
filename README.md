@@ -1,4 +1,4 @@
-👋 Hello, World! I'm Mehedi Hasan
+👋 Hello World! I'm Mehedi Hasan
 
 I am a dynamic and enthusiastic Full-Stack Software Engineer with a deep-seated interest in Cloud Architecture and Artificial Intelligence. With a knack for coding, I'm always on the lookout for new opportunities to challenge myself and augment my knowledge base.
 
@@ -8,7 +8,7 @@ Proficient in HTML, CSS, JavaScript, and React, I'm currently focusing on expand
 
 🚀 Current Work
 
-At present, I'm working on several personal projects that demonstrate my capabilities in full-stack development. These projects not only allow me to apply my skills in a practical setting but also provide opportunities for continuous learning and improvement.
+At present, I'm working on several personal projects that demonstrate my capabilities in Frontend development. These projects not only allow me to apply my skills in a practical setting but also provide opportunities for continuous learning and improvement.
 
 💡 Interests
 
