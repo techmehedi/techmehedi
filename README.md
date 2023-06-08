@@ -4,7 +4,7 @@ I am a dynamic and enthusiastic Full-Stack Software Engineer with a deep-seated 
 
 🛠️ Skills and Experience
 
-Proficient in HTML, CSS, JavaScript, and React, I'm currently focusing on expanding my skills into backend development. Moreover, I have experience with C++ and Python, further diversifying my skill set and demonstrating my adaptability and eagerness to learn.
+Proficient in HTML, CSS, JavaScript, and React, I'm currently focusing on expanding my skills into backend development. Moreover, I have experience with C++, Python, and my resume further reflects an eclectic array of additional proficiencies. This broad spectrum of expertise not only amplifies the diversity of my skills, but also stands testament to my flexible adaptability and relentless drive for continuous learning.
 
 🚀 Current Work
 
