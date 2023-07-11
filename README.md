@@ -1,6 +1,6 @@
 👋 Hello World! I'm Mehedi Hasan
 
-I am a dynamic and enthusiastic Full-Stack Software Engineer with a deep-seated interest in Cloud Architecture and Artificial Intelligence. With a knack for coding, I'm always on the lookout for new opportunities to challenge myself and augment my knowledge base.
+I am a dynamic and enthusiastic Software Engineer with a deep-seated interest in Web Development, Cloud Architecture and Artificial Intelligence. With a knack for coding, I'm always on the lookout for new opportunities to challenge myself and augment my knowledge base.
 
 🛠️ Skills and Experience
 
