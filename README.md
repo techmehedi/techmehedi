@@ -12,7 +12,7 @@ At present, I'm working on several personal projects that demonstrate my capabil
 
 💡 Interests
 
-My interests lie at the intersection of Full-Stack Engineering, Cloud Architecture, and Artificial Intelligence. I am intrigued by the potential of AI and Cloud solutions to transform how software applications are designed, developed, and delivered.
+My interests lie at the intersection of Full-Stack Engineering, Cloud Architecture, and Artificial Intelligence. I am intrigued by the potential of AI and Cloud solutions to transform how software applications are designed, developed, and delivered. Apart from technical things, I also enjoy reading, hiking, and going to the gym.
 
 👥 Collaboration
 
