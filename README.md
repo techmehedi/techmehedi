@@ -8,7 +8,7 @@ Proficient in HTML, CSS, JavaScript, and React, I'm currently focusing on expand
 
 🚀 Current Work
 
-At present, I'm working on several personal projects that demonstrate my capabilities in Frontend. These projects not only allow me to apply my skills in a practical setting but also provide opportunities for continuous learning and improvement.
+At present, I'm working on several personal projects that demonstrate my capabilities in Full stack development. These projects not only allow me to apply my skills in a practical setting but also provide opportunities for continuous learning and improvement.
 
 💡 Interests
 
