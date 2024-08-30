@@ -1,18 +1,14 @@
 👋 "Hello World!" I'm Mehedi Hasan
 
-I am a dynamic and enthusiastic Software Engineer with a deep-seated interest in Web Development, Cloud Architecture and Artificial Intelligence. With a knack for coding, I'm always on the lookout for new opportunities to challenge myself and augment my knowledge base.
+I am a dynamic and enthusiastic Software Engineer with a deep-seated interest in Full-Stack Development, Cloud Architecture and Artificial Intelligence. With a knack for coding, I'm always on the lookout for new opportunities to challenge myself and augment my knowledge base. I am intrigued by the potential of future technology to transform how software applications are designed, developed, and delivered. Apart from technical things, I also enjoy reading, hiking, and going to the gym.
 
 🛠️ Skills and Experience
 
-Proficient in HTML, CSS, JavaScript, and React, I'm currently focusing on expanding my skills into backend development. Moreover, I have experience with C++, Python, and my resume further reflects an eclectic array of additional proficiencies. This broad spectrum of expertise not only amplifies the diversity of my skills, but also stands testament to my flexible adaptability and relentless drive for continuous learning.
+Proficient in full stack development, I'm currently focusing on expanding my skills into learning about Machine Learning & Artificial Intelligence and. Moreover. My resume further reflects an my additional proficiencies. This broad spectrum of expertise not only amplifies the diversity of my skills, but also stands testament to my flexible adaptability and relentless drive for continuous learning.
 
 🚀 Current Work
 
-At present, I'm working on several personal projects that demonstrate my capabilities in Full stack development. These projects not only allow me to apply my skills in a practical setting but also provide opportunities for continuous learning and improvement.
-
-💡 Interests
-
-My interests lie at the intersection of Full-Stack Engineering, Cloud Architecture, and Artificial Intelligence. I am intrigued by the potential of AI and Cloud solutions to transform how software applications are designed, developed, and delivered. Apart from technical things, I also enjoy reading, hiking, and going to the gym.
+At present, I'm working on several personal projects that demonstrate my capabilities as a developer. These projects not only allow me to apply my skills in a practical setting but also provide opportunities for continuous learning and improvement.
 
 👥 Collaboration
 
