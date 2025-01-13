@@ -1,4 +1,4 @@
-👋 "Hello World!" I'm Mehedi Hasan
+👋 "Hello World!" I'm Mehedi Hasan.
 
 I am a dynamic and enthusiastic Software Engineer with a deep-seated interest in Full-Stack Development, Cloud Architecture and Artificial Intelligence. With a knack for coding, I'm always on the lookout for new opportunities to challenge myself and augment my knowledge base. I am intrigued by the potential of future technology to transform how software applications are designed, developed, and delivered. Apart from technical things, I also enjoy reading, hiking, and going to the gym.
 
