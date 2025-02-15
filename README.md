@@ -23,7 +23,7 @@ Staying at the cutting edge of technology trends is a top priority for me. I str
 Let's stay connected! You can reach out to me via LinkedIn. Whether you have a new project, an exciting idea, or an opportunity to add value to your team, I'm all ears.
 
 https://www.linkedin.com/in/techmehedi
-https://www.techmehedi.github.io
+https://techmehedi.github.io/
 
 
 <!---
